@@ -34,6 +34,8 @@ I believe in **precision, efficiency, and collaboration** when it comes to softw
 ### 📌 **CRM Project**
 - **Description:** Worked on CRM automation where I developed and executed test cases for critical business scenarios.
 - **Responsibilities:**
+  - Performed end-to-end manual testing for CRM modules, ensuring seamless functionality
+  - Created and executed detailed test cases for UI, field validations, and edge cases
   - Automated test scripts for form validation and UI testing
   - Verified GST API integration and field editability logic
   - Conducted database validations for OTP retrieval
@@ -43,10 +45,11 @@ I believe in **precision, efficiency, and collaboration** when it comes to softw
 - **Description:** A government project for managing central fund disbursement between MOHUA and ULBs.
 - **Responsibilities:**
   - Performed manual regression and smoke testing for data transparency features
+  - Verified fund disbursement data flows with detailed database testing
+  - Created test scenarios for backend validations and API responses
   - Created and updated automation scripts based on new CRs
   - Validated data flows using SQL queries and ensured seamless API integrations
 - **Tools Used:** Selenium, Postman, SQL
-
 ---
 
 ## 📈 **Stats**
@@ -61,6 +64,7 @@ I believe in **precision, efficiency, and collaboration** when it comes to softw
 - **LinkedIn:** [Niyaz Ahmad](www.linkedin.com/in/niyaz-ahmad-2b45b2249)
 - **GitHub:** [Niyaz Ahmad](https://github.com/niyazahmad11787)
 - **Email:** niyaz.ahmad11787@gmail.com
+
 
 ---
 

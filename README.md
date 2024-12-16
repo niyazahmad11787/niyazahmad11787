@@ -58,7 +58,7 @@ I believe in **precision, efficiency, and collaboration** when it comes to softw
 
 ## 📫 **Connect With Me**
 
-- **LinkedIn:** [Niyaz Ahmad](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Niyaz Ahmad](www.linkedin.com/in/niyaz-ahmad-2b45b2249)
 - **GitHub:** [Niyaz Ahmad](https://github.com/niyazahmad11787)
 - **Email:** niyaz.ahmad11787@gmail.com
 

@@ -21,7 +21,7 @@ I focus on delivering efficient, reliable, and high-quality software solutions, 
 | **CI/CD Tools**        | Jenkins, GitHub Actions                               |
 | **Frameworks**         | BDD (Cucumber), Data-Driven Testing                   |
 | **APIs**               | RESTful API Testing                                   |
-| **Bug Tracking**       | JIRA, Trello                                          |
+| **Bug Tracking**       | JIRA, ClickUp, Bitrix.                                          |
 | **Version Control**    | Git, GitHub                                           |
 | **Databases**          | MySQL, SQL Server                                     |
 

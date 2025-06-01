@@ -6,7 +6,7 @@
 
 👨‍💻 **QA Engineer** | **Manual & Automation Testing**  
 💼 **Company**: Hippo Stores Technology Private Limited  
-🔧 **Experience**: 4+ years in **Test Automation**, Bug Reporting, and Regression Testing.  
+🔧 **Experience**: 3+ years in **Test Automation**, Bug Reporting, and Regression Testing.  
 
 I focus on delivering efficient, reliable, and high-quality software solutions, leveraging **manual and automated testing tools** to streamline testing workflows.
 

@@ -24,6 +24,7 @@ I focus on delivering efficient, reliable, and high-quality software solutions, 
 | **Bug Tracking**       | JIRA, ClickUp, Bitrix.                                          |
 | **Version Control**    | Git, GitHub                                           |
 | **Databases**          | MySQL, SQL Server                                     |
+| **Test Management Tool**| QA Touch                                     |
 
 ---
 

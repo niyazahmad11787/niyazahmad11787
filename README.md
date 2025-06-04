@@ -8,7 +8,7 @@
 💼 **Company**: Hippo Stores Technology Private Limited  
 🔧 **Experience**: 3+ years in **Test Automation**, Bug Reporting, and Regression Testing.  
 
-I focus on delivering efficient, reliable, and high-quality software solutions, leveraging **manual and automated testing tools** to streamline testing workflows.
+I’m passionate about delivering **high-quality**, **efficient**, and **reliable** software by leveraging a combination of **manual and automated testing tools** to streamline QA workflows and ensure exceptional product performance.
 
 ---
 
@@ -16,15 +16,16 @@ I focus on delivering efficient, reliable, and high-quality software solutions, 
 
 | **Category**           | **Tools & Technologies**                                |
 |------------------------|--------------------------------------------------------|
-| **Automation Testing** | Selenium, TestNG, RestAssured, Postman                 |
-| **Programming**        | Java (22.0.2), SQL                                    |
-| **CI/CD Tools**        | Jenkins, GitHub Actions                               |
-| **Frameworks**         | BDD (Cucumber), Data-Driven Testing                   |
-| **APIs**               | RESTful API Testing                                   |
-| **Bug Tracking**       | JIRA, ClickUp, Bitrix.                                          |
-| **Version Control**    | Git, GitHub                                           |
-| **Databases**          | MySQL, SQL Server                                     |
-| **Test Management Tool**| QA Touch                                     |
+| 💻 **Automation Tools** | Selenium, TestNG, RestAssured, Postman              |
+| 🧠 **Programming**      | Java (22.0.2), SQL                                   |
+| 🔁 **CI/CD**            | Jenkins, GitHub Actions                             |
+| ⚙️ **Frameworks**       | Cucumber (BDD), Data-Driven Testing                 |
+| 🌐 **API Testing**      | RESTful APIs with Postman & RestAssured             |
+| 🐛 **Bug Tracking**     | JIRA, ClickUp, Bitrix                               |
+| 🗂️ **Version Control**  | Git, GitHub                                          |
+| 🛢️ **Databases**        | MySQL, SQL Server                                   |
+| 📋 **Test Management**  | QA Touch                                             |
+
 
 ---
 
@@ -71,8 +72,8 @@ I focus on delivering efficient, reliable, and high-quality software solutions, 
 
 ## 🎓 Certifications
 
-- ✅ [Selenium Automation Specialist (Udemy)](https://www.udemy.com/certificate/UC-e870cf9e-fea2-4114-bcea-34d101d1fb61/)
-- ✅ [API Automation Specialist (Udemy)](https://www.udemy.com/certificate/UC-2d980e60-d6f9-4b37-bc2a-894c692b4067/)
+- 🏅 [Selenium Automation Specialist – Udemy](https://www.udemy.com/certificate/UC-e870cf9e-fea2-4114-bcea-34d101d1fb61/)
+- 🏅 [API Automation Specialist – Udemy](https://www.udemy.com/certificate/UC-2d980e60-d6f9-4b37-bc2a-894c692b4067/)
 
 ---
 

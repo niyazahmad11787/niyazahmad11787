@@ -69,12 +69,10 @@ I focus on delivering efficient, reliable, and high-quality software solutions, 
 
 ---
 
-## 🎓 Certifications  
- 
-- ✅ **Selenium Automation Specialist**  
-- ✅ **API Testing Specialist (Postman)**  
+## 🎓 Certifications
 
----
+- ✅ [Selenium Automation Specialist (Udemy)](https://www.udemy.com/certificate/UC-e870cf9e-fea2-4114-bcea-34d101d1fb61/)
+- ✅ [API Automation Specialist (Udemy)](https://www.udemy.com/certificate/UC-2d980e60-d6f9-4b37-bc2a-894c692b4067/)
 
 ---
 

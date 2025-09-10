@@ -56,8 +56,13 @@ Developed a hybrid test approach (**manual + automation**) for a CRM application
 - **Reporting:** ExtentReports (v5.1.2)  
 
 ---
+## 📂 Project Modules  
+- CRM  
+- Kitchen Service Module (LMS)
 
-📂 **Repository:** [CRM-UI-Automation]()  
+---
+
+📂 **Repository:** [CRM-KitchenLMS](https://github.com/niyazahmad11787/CRM-KitchenLMS)  
 
 
 ---

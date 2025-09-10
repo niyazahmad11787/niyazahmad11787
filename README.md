@@ -31,23 +31,34 @@ I’m passionate about delivering **high-quality**, **efficient**, and **reliabl
 
 ## 📌 Key Projects
 
-### 🚀 **1. CRM UI Automation**
+## 🚀 Project 1: CRM UI Automation  
 
-**Description:** Developed a hybrid test approach (**manual + automation**) for a CRM application, focusing on **UI validations**, **form behavior testing**, and **GST API integration**. The project covers **functional testing**, **database checks**, and **API validations** to ensure end-to-end reliability.  
-  
-**Responsibilities:**
-- Conducted **manual testing** to validate workflows and business rules.  
-- Automated **end-to-end test scenarios** using **Selenium + TestNG**.  
-- Verified **field editability logic** and implemented **form validations**.  
-- Performed **database validations** for **OTP retrieval** using SQL queries.  
-- Executed **API testing** via **Postman** for request/response validation.  
-- Managed **test case creation, execution, and tracking** in **QA Touch**. 
+🔹 **Description**  
+Developed a hybrid test approach (**manual + automation**) for a CRM application, focusing on **UI validations**, **form behavior testing**, and **GST API integration**. The project ensures end-to-end reliability through **functional testing**, **database validations**, and **API checks**.  
 
-**Tech Stack:**
-- **Tools:** Selenium | TestNG | Java | SQL | Postman | QA Touch  
-- **Framework:** Data-Driven Framework with ExtentReports 
+---
 
-📝 **Repository**: [CRM-UI-Automation]()
+### 📌 Responsibilities  
+✅ Conducted **manual testing** to validate workflows and business rules.  
+✅ Automated **end-to-end test scenarios** using **Selenium + TestNG**.  
+✅ Verified **field editability logic** and implemented **form validations**.  
+✅ Performed **database testing** using **SQL queries** for **OTP retrieval**.  
+✅ Executed **API testing** with **Postman** for request/response validation.  
+✅ Managed **test cases** (creation, execution, tracking) using **QA Touch**.  
+
+---
+
+### 🛠 Tech Stack  
+- **Automation Tools:** Selenium, TestNG, Java  
+- **Database:** SQL  
+- **API Testing:** Postman  
+- **Test Management:** QA Touch  
+- **Reporting:** ExtentReports (v5.1.2)  
+
+---
+
+📂 **Repository:** [CRM-UI-Automation]()  
+
 
 ---
 

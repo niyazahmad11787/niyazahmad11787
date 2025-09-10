@@ -6,7 +6,7 @@
 
 👨‍💻 **QA Engineer** | **Manual & Automation Testing**  
 💼 **Company**: Hippo Stores Technology Private Limited  
-🔧 **Experience**: 3+ years in **Test Automation**, Bug Reporting, and Regression Testing.  
+🔧 **Experience**: 3+ years in **Manual & Automation Testing**, Bug Reporting, and Regression Testing.  
 
 I’m passionate about delivering **high-quality**, **efficient**, and **reliable** software by leveraging a combination of **manual and automated testing tools** to streamline QA workflows and ensure exceptional product performance.
 
@@ -33,15 +33,19 @@ I’m passionate about delivering **high-quality**, **efficient**, and **reliabl
 
 ### 🚀 **1. CRM UI Automation**
 
-**Description:** Developed an automated test suite for a CRM application focusing on UI validations and GST API integration.  
+**Description:** Developed a hybrid test approach (**manual + automation**) for a CRM application, focusing on **UI validations**, **form behavior testing**, and **GST API integration**. The project covers **functional testing**, **database checks**, and **API validations** to ensure end-to-end reliability.  
+  
 **Responsibilities:**
-- Automated end-to-end test scenarios using Selenium and TestNG.  
+- Conducted **manual testing** to validate workflows and business rules.  
+- Automated **end-to-end test scenarios** using **Selenium + TestNG**.  
 - Verified **field editability logic** and implemented **form validations**.  
-- Performed database validations for **OTP retrieval** using SQL queries.  
+- Performed **database validations** for **OTP retrieval** using SQL queries.  
+- Executed **API testing** via **Postman** for request/response validation.  
+- Managed **test case creation, execution, and tracking** in **QA Touch**. 
 
 **Tech Stack:**
-- **Tools**: Selenium | TestNG | Java | SQL  
-- **Framework**: Data-Driven Framework with ExtentReports.  
+- **Tools:** Selenium | TestNG | Java | SQL | Postman | QA Touch  
+- **Framework:** Data-Driven Framework with ExtentReports 
 
 📝 **Repository**: [CRM-UI-Automation]()
 

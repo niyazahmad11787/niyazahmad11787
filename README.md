@@ -66,6 +66,30 @@ Developed a hybrid test approach (**manual + automation**) for a CRM application
 
 
 ---
+### 🛒 **2. POS – Point of Sale**
+
+**Description:**  
+Designed and executed a hybrid testing approach (**manual + automation**) for a Point of Sale (POS) system.  
+The project validates **sales transactions, tender modes and payment gateway integration** through **UI testing, API testing, and database validations**.  
+
+**Responsibilities:**  
+- Conducted **manual testing** of POS workflows (billing, returns, discounts, loyalty points).  
+- Automated **end-to-end POS scenarios** including:  
+  - 🛍️ **Order Creation**  
+  - 💳 **Tender Validation**  
+  - 📦 **Pickup Scenarios** (Delivery & Self Pickup)  
+- Developed **different test suites** (Smoke, Regression, Sanity) for optimized execution.  
+- Performed **API testing** with **Postman** for order management and payment gateway validation.  
+- Executed **database validations** using **SQL queries** to ensure transactional consistency.  
+- Maintained and executed **test cases** in **QA Touch** for test management.  
+
+**Tech Stack:**  
+- **Tools:** Selenium | TestNG | Java | SQL | Postman | QA Touch  
+- **Framework:** Data-Driven Framework with ExtentReports  
+
+**Repository:** [POS-Automation]()  
+
+---
 
 ### 🚀 **2. CityFinance Project**
 
